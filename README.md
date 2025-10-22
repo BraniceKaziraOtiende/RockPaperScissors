@@ -45,4 +45,4 @@ https://drive.google.com/file/d/1YBjlMVjDWBVCL7JqyDWX4ICo7n8FpiB6/view?usp=shari
 
 
 # Play Online (Unity Play): 
-file:///C:/Users/brani/OneDrive/Desktop/UNITY%20PROJECTS/RockPaperScissors/RockPaperScissors_WebGL/index.html
+http://localhost:49564/
